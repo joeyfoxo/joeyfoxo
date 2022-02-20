@@ -1,5 +1,4 @@
-<h1 align="center">Hi im joey a furry software engineer</h1>
-<h3 align="center">I'm a software engineer from the UK who is expanding my knowledge!</h3>
+<h3 align="center">Hi im joey a software engineer from the uk!</h3>
 
 <h2 align="left">Socials:</h2>
 <p align="left">
