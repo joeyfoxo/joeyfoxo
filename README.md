@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/odionfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odionfox" height="30" width="40" /></a>
 <a href="https://discord.gg/yhHUAxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yhHUAxy" height="30" width="40" /></a>
-  <a href="https://discord.gg/yhHUAxy" target="blank"><img align="center" src="https://pic.onlinewebfonts.com/svg/img_357472.png" alt="yhHUAxy" height="30" width="40" /></a>
+  <a href="https://discord.gg/yhHUAxy" target="blank"><img align="center" src="https://odionwolf.dev/assets/imgEnvelope.png" alt="yhHUAxy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages i've experienced:</h2>
