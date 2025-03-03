@@ -1,11 +1,82 @@
-<h3 align="center">Hi im joey a software engineer from the uk!</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joey's GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 20px;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #00c3ff;
+        }
+        a {
+            color: #ff9800;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-<h3 align="left">Socials:</h2>
-<p align="left">
-<a href="https://twitter.com/odionfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odionfox" height="30" width="40" /></a>
-</p>
+    <h1>👋 Hi there, I'm Joey!</h1>
 
-<h3 align="left">Languages i've experienced:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <h2>🚀 About Me</h2>
+    <p>
+        I'm a passionate programmer with expertise in multiple languages and technologies. 
+        From custom Minecraft plugins to full-stack applications, I enjoy solving complex problems 
+        and creating innovative solutions.
+    </p>
+    <ul>
+        <li>🎓 MA in Philosophy from St. Andrews University</li>
+        <li>💻 Experienced in Python, Java, Swift, C++, C#, JavaScript, and more</li>
+        <li>🛠️ Specializing in game development, cybersecurity, and backend systems</li>
+        <li>📖 Currently researching malware analysis and obfuscation techniques</li>
+    </ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeyfoxo&show_icons=true&locale=en&layout=compact" alt="joeyfoxo" /></p>
+    <h2>🔧 Technologies & Tools</h2>
+    <p>
+        <img src="https://skillicons.dev/icons?i=python,java,swift,cpp,cs,js,html,css,django,react,postgres,mysql,linux,docker,git,github,nginx,bash" alt="Tech Stack">
+    </p>
+
+    <h2>📊 GitHub Stats</h2>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=joeyfoxo&show_icons=true&theme=dark" alt="GitHub Stats">
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfoxo&layout=compact&theme=dark" alt="Top Languages">
+    </p>
+
+    <h2>🔨 Notable Projects</h2>
+
+    <h3>🎮 KeeleMC - Custom Minecraft Server</h3>
+    <p>A PaperMC server built from the ground up with a custom core, hub, and game mode plugins.</p>
+    <p><a href="https://github.com/Joeyfoxo/keelemc">🔗 View on GitHub</a></p>
+
+    <h3>🛡️ moShield - Custom Minecraft Shield Plugin</h3>
+    <p>A Minecraft Paper plugin introducing multiple shields with special abilities.</p>
+    <p><a href="https://github.com/Joeyfoxo/moShield">🔗 View on GitHub</a></p>
+
+    <h3>📊 Malware Analysis & Obfuscation</h3>
+    <p>My dissertation explores how malware uses obfuscation techniques to evade detection and execution.</p>
+    <p><a href="https://joeyfox.dev">🔗 Visit My Website</a></p>
+
+    <h2>📫 Connect with Me</h2>
+    <ul>
+        <li>🌐 <a href="https://joeyfox.dev">Website</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a></li>
+        <li>🐦 <a href="https://twitter.com/your-handle">Twitter</a></li>
+        <li>📩 <a href="mailto:your-email@example.com">Email</a></li>
+    </ul>
+
+    <p>Let's build something awesome! 🚀</p>
+
+</body>
+</html>
