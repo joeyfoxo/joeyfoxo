@@ -1,6 +1,6 @@
-<h1>👋 Hi there, I'm Joey!</h1>
+<h1> Hi there, I'm Joey!</h1>
 
-<h2>🚀 About Me</h2>
+<h2>Information</h2>
 <p>
     I'm a passionate programmer with expertise in multiple languages and technologies. 
     From custom Minecraft plugins to full-stack applications, I enjoy solving complex problems 
@@ -43,9 +43,5 @@
 <h2>📫 Connect with Me</h2>
 <ul>
     <li>🌐 <a href="https://joeyfox.dev">Website</a></li>
-    <li>💼 <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a></li>
-    <li>🐦 <a href="https://twitter.com/your-handle">Twitter</a></li>
-    <li>📩 <a href="mailto:your-email@example.com">Email</a></li>
+    <li>💼 <a href="https://www.linkedin.com/in/joeyfoxo">LinkedIn</a></li>
 </ul>
-
-<p>Let's build something awesome! 🚀</p>
