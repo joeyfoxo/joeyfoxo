@@ -7,7 +7,7 @@
     and creating innovative solutions.
 </p>
 <ul>
-    <li>🎓 BSc in Computer Science (Software Engineering) At Keele University /li>
+    <li>🎓 BSc in Computer Science (Software Engineering) At Keele University </li>
     <li>💻 Experienced in Python, Java, Swift, C++, C#, JavaScript, and more</li>
     <li>🛠️ Specializing in game development, cybersecurity, and backend systems</li>
     <li>📖 Currently researching malware analysis and obfuscation techniques</li>
