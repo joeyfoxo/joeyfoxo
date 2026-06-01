@@ -71,14 +71,6 @@
     Developed a high-fidelity 3D simulation in C++ using the Open Dynamics Engine (ODE), optimizing the custom rendering pipeline to reduce memory consumption by 30%.
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=joeyfoxo&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfoxo&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
 <h2>📫 Connect With Me</h2>
 <ul>
     <li>🌐 <a href="https://joeyfox.dev">joeyfox.dev</a></li>
