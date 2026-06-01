@@ -2,48 +2,74 @@
 
 <h2>🎓 About Me</h2>
 <p>
-    I'm a graduate software engineer from Keele University with over seven years of programming experience.
-    My focus areas include backend systems, game development, and cybersecurity. I’ve worked on both commercial and open-source projects that span from Minecraft plugins to full-stack platforms.
+    I'm a Graduate Software Engineer from Keele University with over seven years of programming experience, including production backend development supporting systems used by over 4M monthly active users. My focus areas include scalable backend systems, infrastructure/platform engineering, reliable distributed systems, and CI/CD automation. I've engineered solutions ranging from distributed Minecraft networks to full-stack e-commerce platforms and secure administrative frameworks.
 </p>
 <ul>
     <li>👨‍🎓 BSc in Computer Science (Software Engineering), First Class Honours</li>
-    <li>🏫 Keele University (2022–2025)</li>
+    <li>🏫 Keele University (Class of 2025)</li>
 </ul>
 
-<h2>💼 Key Skills</h2>
+<h2>💼 Key Skills & Core Strengths</h2>
 <ul>
-    <li><strong>Languages:</strong> Java, Python, TypeScript, JavaScript, C#, C++ (learning)</li>
-    <li><strong>Frameworks:</strong> React (with Material UI), Django, Bukkit/Spigot</li>
-    <li><strong>Technologies:</strong> Git, Google Cloud Platform, REST APIs, Agile development, Jira</li>
-    <li><strong>Core Competencies:</strong> Algorithms, object-oriented design, scalable system architecture, CI/CD, debugging, team collaboration</li>
+    <li><strong>Languages:</strong> Java, TypeScript, JavaScript, Python, C#, C++, Swift</li>
+    <li><strong>Frameworks & Platforms:</strong> React, Material UI, Django, Bukkit/Spigot/PaperMC, Node.js, Shopify (Liquid)</li>
+    <li><strong>Infrastructure & Tools:</strong> Git, GitHub, PostgreSQL, Linux, REST APIs, CI/CD fundamentals, Jira, VS Code, Xcode (macOS/Apple Developer ecosystem), Gemini, GitHub Copilot</li>
+    <li><strong>Core Competencies:</strong> Scalable backend systems, concurrency, OOP, performance tuning, production debugging, Agile/Scrum</li>
 </ul>
 
 <h2>🔧 Technologies & Tools</h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,swift,cpp,cs,ts,js,html,css,django,react,postgres,mysql,linux,docker,git,github,nginx,bash" alt="Tech Stack">
+    <img src="https://skillicons.dev/icons?i=python,java,swift,cpp,cs,ts,js,html,css,django,react,postgres,mysql,linux,docker,git,github,nginx,bash,vscode,apple" alt="Tech Stack">
 </p>
 
-<h2>🧪 Experience</h2>
+<h2>🧪 Professional Experience</h2>
+
+<h3>🛍️ Cue And Dart World (2025–2026)</h3>
+<p><em>IT & Full Stack Software Engineer</em></p>
+<ul>
+    <li>Built and maintained a full Shopify e-commerce platform utilizing custom Liquid development and third-party integrations.</li>
+    <li>Developed middleware to synchronize POS, inventory, and online systems, significantly reducing manual workload and data errors.</li>
+    <li>Managed on-site IT infrastructure and networking across multiple retail locations.</li>
+</ul>
 
 <h3>🎮 CubeCraft Games – Ziax LTD (2023–2024)</h3>
+<p><em>Java Software Developer</em></p>
 <ul>
-    <li>Built and maintained Java-based mini-games with focus on gameplay stability and user experience</li>
-    <li>Handled bug fixes and performance optimizations for 4M+ MAU and 1M+ DAU</li>
-    <li>Improved server stability and scalability, helping maintain 14K average and 42K peak concurrent players</li>
+    <li>Architected cross-platform compatibility leveraging CubeTap (Paper Spigot fork) for a unified Bedrock and Java backend.</li>
+    <li>Maintained and scaled server-side systems supporting 42,000 peak concurrent players and 4 million MAU.</li>
+    <li>Diagnosed and resolved critical production bottlenecks, directly improving server tick rates and player retention.</li>
 </ul>
 
 <h3>🖥️ Furcation LTD (2022–2025)</h3>
+<p><em>Software Developer</em></p>
 <ul>
-    <li>Created a TypeScript and Django-based platform for a user base of 1,000+</li>
-    <li>Integrated frontend with secure APIs, enhanced UX and responsiveness using Material UI</li>
-    <li>Optimized performance and iterated on features based on community feedback</li>
+    <li>Developed a robust full-stack registration architecture using TypeScript, React (Material UI), and Django for 4,000+ total users.</li>
+    <li>Designed a high-concurrency PostgreSQL database schema ensuring sub-second response times for loads of 1,000+ simultaneous users.</li>
+    <li>Engineered secure RESTful APIs for authentication, data validation, and seamless frontend-backend integration.</li>
 </ul>
 
-<h3>🏕️ Duke of Edinburgh Award (2018)</h3>
-<ul>
-    <li>Strengthened teamwork and problem-solving during expeditions and volunteering</li>
-    <li>Applied agile-style thinking with goal-setting, iteration, and adaptability</li>
-</ul>
+<h2>🚀 Featured Projects</h2>
+
+<h3>🧩 KeeleMC - Distributed Game Server Platform</h3>
+<p>
+    Engineered a distributed Java network architecture synchronizing player data across 4 server instances utilizing a custom Velocity proxy plugin and a PostgreSQL-backed minigame framework.
+</p>
+<p><a href="https://github.com/Joeyfoxo/keelemc">🔗 View on GitHub</a></p>
+
+<h3>🌐 Web Integration & Backend Infrastructure</h3>
+<p>
+    Built a centralized Node.js REST API to bridge game and web platforms, enabling high-frequency, real-time synchronization of user statistics via secure database queries.
+</p>
+
+<h3>🔐 Endpoint Administration & Security Lab Framework</h3>
+<p>
+    Architected a multi-tier C# remote administration tool using a Client-Server model and modular plugin system for the dynamic execution of security tasks and endpoint diagnostics.
+</p>
+
+<h3>🕹️ Physics-Driven Desktop Application</h3>
+<p>
+    Developed a high-fidelity 3D simulation in C++ using the Open Dynamics Engine (ODE), optimizing the custom rendering pipeline to reduce memory consumption by 30%.
+</p>
 
 <h2>📊 GitHub Stats</h2>
 <p>
@@ -52,26 +78,6 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyfoxo&layout=compact&theme=dark" alt="Top Languages">
 </p>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🧩 KeeleMC - Custom Minecraft Server</h3>
-<p>
-    A PaperMC server designed from scratch with a custom core, unique hub, and multiple game modes.
-</p>
-<p><a href="https://github.com/Joeyfoxo/keelemc">🔗 View on GitHub</a></p>
-
-<h3>🛡️ moShield - Minecraft Shield Plugin</h3>
-<p>
-    A plugin introducing customizable shields with special abilities and interaction logic for combat gameplay.
-</p>
-<p><a href="https://github.com/Joeyfoxo/moShield">🔗 View on GitHub</a></p>
-
-<h3>🔍 Malware Analysis & Obfuscation</h3>
-<p>
-    Dissertation on how malware applies obfuscation to evade analysis. Combines research with hands-on tool development.
-</p>
-<p><a href="https://joeyfox.dev">🔗 Visit My Website</a></p>
 
 <h2>📫 Connect With Me</h2>
 <ul>
